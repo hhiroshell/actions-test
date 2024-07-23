@@ -1,7 +1,5 @@
 name: CI
 
-on: {}
-
 jobs:
   run:
     runs-on: ubuntu-latest
